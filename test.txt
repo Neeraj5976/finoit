@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEA~d
-this is master branch file
-=======
-this is newBranch file
->>>>>>> 24e2324... modified
-=======
-this is newBranch file
->>>>>>> newBranch
+hello

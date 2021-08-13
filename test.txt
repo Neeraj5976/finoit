@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is master branch file
+=======
+this is newBranch file
+>>>>>>> 24e2324... modified

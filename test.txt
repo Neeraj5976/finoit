@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEA~d
 this is master branch file
 =======
 this is newBranch file
